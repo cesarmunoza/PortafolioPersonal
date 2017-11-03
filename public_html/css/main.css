@@ -17,11 +17,12 @@ body {
     border-color:black;
     color:#337ab7;
     font-size:1.7em;
-    opacity:.5;  
+    opacity:.8;  
 }
 .jumbotron{
     background:url("../img/fondo.jpg");
     color:white;
+    margin-bottom: 0px;
 }
 .pageTwo{
     background-color: #28a4c9;
@@ -31,4 +32,22 @@ body {
 #foto1{
     height: 300px;   
     border-radius: 50%;
+}
+p{
+    font-size: 2em;
+}
+
+.footer{
+    background-color: black;
+}
+.footer p{
+    font-size: 15px;
+}
+.paddingBTN{    
+    width: 200px;
+    margin-bottom: 25px;
+}
+#mpt{
+    width: 100%;
+    height: 300px;
 }
